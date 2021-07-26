@@ -1,0 +1,21 @@
+#jumbotron {
+    padding:30px;
+    margin:15px;
+    text-align:center;
+    background-image:url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/easy-pescatarian-recipes-1557518379.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*);
+}
+#text1 {
+    line-height:50px;
+}
+#text2 {
+    padding:10px;
+    margin:10px;
+}
+.form {
+    margin:10px;
+}
+#contactTitle {
+    text-align:center;
+    margin:10px;
+    padding:10px;
+}
